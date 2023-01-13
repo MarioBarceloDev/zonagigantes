@@ -5,8 +5,8 @@ A NY Giants fan? Don’t miss out on your team’s latest news in Spanish. Websi
 
 ## Features ✨
 
-- Fetch API to consume and display the latest videos from the Zona Gigantes YouTube channel
-- Tailwind CSS to create a beutiful layout
+- Show the latest videos from the Zona Gigantes YouTube channel using the fetch API
+- Display a beautiful layout using Tailwind CSS
 
 ## Tech Stack 🪄
 
