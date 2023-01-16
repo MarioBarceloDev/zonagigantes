@@ -21,6 +21,13 @@ A NY Giants fan? Don’t miss out on your team’s latest news in Spanish. Websi
 - Knowing how Tailwind CSS works to build a layout
 - Deploy the project on Vercel
 
-## See it in action! 🚀
+## Going further 🚀
+These would be the possible next steps for this project
+- Add button to go to subscribe 
+- Show channel subscribers
+- Show views per video
+- Show likes per video
+
+## See it in action! 🔥
 
 [Watch the project live](https://zonagigantes.vercel.app/)
